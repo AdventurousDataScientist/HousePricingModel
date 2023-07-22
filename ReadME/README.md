@@ -9,6 +9,7 @@ Target Variable Distribution
 Raw Target Variable Distribution
 
 This is the raw distribution of the sale price variable.
+
 ![Raw Target Variable Distribution](House%20Pricing%20Distribution.png)
 
 This is the binned distribution of the sale price variable, just to get a better understanding of how the variable looks.
